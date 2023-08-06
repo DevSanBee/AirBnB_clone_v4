@@ -159,7 +159,7 @@ Jennifer Huang - [Github](https://github.com/jhuang10123) / [Twitter](https://tw
 Jhoan Zamora - [Github](https://github.com/jzamora5) / [Twitter](https://twitter.com/JhoanZamora10)  
 David Ovalle - [Github](https://github.com/Nukemenonai) / [Twitter](https://twitter.com/disartDave)
 Olowookun Sunday - [Github](https://github.com/superstazdare) / [Twitter](https://twitter.com/engr_asune)
-Joe Joseph - [Github](https://github.com/Mcsnup)
+Joseph Takpa - [Github](https://github.com/Mcsnup) / [Twitter](https://twitter.com/joetakpa)
 
 Second part of Airbnb: Joann Vuong
 ## License
